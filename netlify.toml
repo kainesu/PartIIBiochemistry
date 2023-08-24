@@ -8,7 +8,7 @@ LANDING_BUTTON = "Click here"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Part II Biochemistry Notes"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "master_index"
 # (Optional) Site title on landing page
 LANDING_TITLE = "home"
 PYTHON_VERSION = "3.8"
