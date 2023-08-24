@@ -1,0 +1,7 @@
+- α-xylosidase doesn't work as XXT1 (and probably XXT2) adds to non-terminal glucose (Culbertson et al 2012)
+- Could it be possible that GT34s act in concert with other proteins in the Golgi? 
+- Evolution of increasing tolerance of glucose by MAGT (from mannan to pine glucomannan to beta-GGM)
+- Could dimerisation affect substrate specificity? Can all GT34s dimerise? – yes, according to WB. 
+- Could differences in membrane localisation affect substrate specificity? And if so, what drives these differences in membrane localisation? Could it be an intrinsic structural reason (e.g. differences in the TMD?) 
+- Why did activity of Pp21250 in flow through appear to be different than in microsome extract? Could there be a membrane interaction effect on specificity? Or an interaction with another membrane protein in the microsome? 
+- WE need structural information on how the GT34s bind to acceptor + donor. Need structure of non binding state and binding state. 

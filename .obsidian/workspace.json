@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "22710e33cc86fe83",
+    "type": "split",
+    "children": [
+      {
+        "id": "1889ca1549877c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15f755ee6e475e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory Notes/02 Module B/B6 Cytoplasmic RNA decay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec40a0406b826b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1cb4c6288e5e4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe7aaffa7b2e65bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bb8b7122284f623",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e47a036ed413a26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2b1eee29a61254e",
+    "type": "split",
+    "children": [
+      {
+        "id": "07eaed31f5f70155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c3bd72177c7e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory Notes/02 Module B/B6 Cytoplasmic RNA decay.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9e1027dc22ad315",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theory Notes/02 Module B/B6 Cytoplasmic RNA decay.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "784d04206e980e6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abe6ac9bdd4c87c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theory Notes/02 Module B/B6 Cytoplasmic RNA decay.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "15f755ee6e475e34",
+  "lastOpenFiles": [
+    "README.md",
+    "Users/izavel/Documents/GitHub/PartIIBiochemistry/README.md",
+    "Users/izavel/Documents/GitHub/PartIIBiochemistry",
+    "Users/izavel/Documents/GitHub",
+    "Users/izavel/Documents",
+    "Users/izavel",
+    "Users",
+    "Literature/BhattacharyaEtAl_2022.md",
+    "Theory Notes/01 Module A/A4 NMR.md",
+    "Theory Notes/01 Module A/A7 G proteins.md",
+    "Master Index copy.md",
+    "Essays/Module A/Based on your knowledge of how G proteins function, design strategies to interfere with G protein signalling..md",
+    "Essays/Module A/Describe how mass spectrometry can be used to gain insight into multi-protein complex components..md"
+  ]
+}

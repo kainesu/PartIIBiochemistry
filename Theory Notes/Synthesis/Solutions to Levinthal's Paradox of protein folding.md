@@ -1,0 +1,3 @@
+- Restricting the structural space that the polypeptide can explore
+	- [[C1 ER Targeting and Integration#^bf0c86|Glycosylation]]
+	- Chaperone proteins 

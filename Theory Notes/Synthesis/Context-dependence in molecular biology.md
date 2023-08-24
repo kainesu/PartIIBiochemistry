@@ -1,0 +1,1 @@
+- [[D6 Vertebrate somatic cell proliferation#Mitogens|Mitogens]] activate generic switches whose outputs depend on cell type and context

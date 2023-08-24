@@ -1,0 +1,2 @@
+- Low affinity complexes allow for regulation of affinity 
+	- e.g. MYO6-Dab2 complex 

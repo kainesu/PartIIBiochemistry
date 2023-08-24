@@ -1,0 +1,4 @@
+- The β-propeller structure is found repeatedly across unrelated proteins as it seems to be amenable to protein binding 
+	- Hydrophobic cleft in the centre 
+	- Overlaps in blades, creating grooves that could be binding sites 
+	- Outer rings can also be hydrophobic 

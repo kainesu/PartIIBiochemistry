@@ -1,0 +1,7 @@
+- Biological processes are heterogenous  
+	- Across time
+	- Across space 
+	- Context-dependence 
+	- Hybrid models 
+- Structure and function 
+- Systems interactions 

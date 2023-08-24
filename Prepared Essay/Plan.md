@@ -1,0 +1,39 @@
+# Initial thoughts
+Methane is a far more potent "greenhouse gas" than CO2. Can biochemistry assist in the long-term control of methane levels in the atmosphere?
+
+- introduction – why is it important to control methane, why biochemistry as a possible answer to the problem 
+	- is methane mainly produced by humans? 
+	- define "biochemistry"
+	- need to define what "long-term control" means
+		- reducing methane levels in the atmosphere to pre-human levels? 
+		- reduce methane levels significantly? 
+		- more effective or as effective as alternatives at reducing methane? 
+	- would I recommend biochemical solutions to policy makers 
+	- are biochemical solutions well-suited to the problem of methane reduction? 
+- Long-term control -> probably useful to tackle methane emissions at the source, ultimately reduce emissions rather than removing them from the atmosphere 
+	- So important to identify the sources of methane emissions and develop a solution for each source? How easy is it to reduce/remove emissions from each source biochemically?
+- biochemistry can be used to understand the processes that produce methane, and thus develop solutions to reduce methane 
+	- E.g. use biochemistry to identify the bacteria that produce methane in livestock 
+- Can biochemistry assist? I think ultimately if it's just a matter of the technology, it will probably become possible, but we have to ask is it worth the cost? Can it be implemented at a large enough scale, is it scalable? Are there other trade-offs or opportunity costs? Is it better than the alternatives? 
+- Technological limitations of current biochemical solutions – is the technology even viable. 
+- Are there additional benefits to using biochemistry to control methane levels apart from just reducing methane levels? e.g. collection of methane -> renewable energy source? 
+- How about in the future – if currently technology isn't viable, what are the future prospects of biochemistry in assisting methane control? 
+	- Personal thoughts, this would be more speculative 
+	- E.g. there is already CO2-removing bacteria? Engineering plants? 
+	- Or maybe I think there is a way to improve the current technology? 
+	- But how long would it take for the technology to reach this state? May take too long before methane levels become dangerously high for the planet, if there are other solutions that are more quickly deployed, may be preferable p
+- How long-lived is methane in the atmosphere? I know CO2 is long-lived. Timescale may be important in the type of biochemical solutions that are developed 
+- some biochemical solutions suggested by ChatGPT
+	- Developing bacteria that can break down methane more efficiently
+	- enhance biodegradation of methane in landfill sites, which is produced as a byproduct of organic waste decomposition, e.g. by adding bacteria or nutrients that support the growth of bacteria that degrade methane
+	- capture and store methane – biogas digesters use bacteria to break down organic waste, and methane can be collected for use as a source of energy 
+- maybe can look for analogy with biochemical solutions to CO2 emissions control. what were the considerations, factors that make it successful/not sucessful, and how do they apply to methane? 
+- should think about lifecycle of methane from source to degradation. at which parts of the lifecycle can biochemistry intervene 
+- What is the niche/opportunity for biochemistry in this problem area?
+- Another angle – what questions are there remaining on methane removal that biochemistry could possibly help to answer? 
+- Using biochemistry to create solutions, but also understand the mechanism for solutions
+- To get a first class I need to demonstrate original thought, so a lit review is not sufficient since everyone in the cohort is going to get access to the same set of literature on the internet; searching for literature is trivial. I would definitely not be surprised if everyone found Jackson et al (2021). I need to be able to synthesise what I read and generate an informed, nuanced opinion based on the evidence. (Use PEEL!)
+- Could be useful to draw a diagram of different types of methane removal (by source, by bulk/type, etc.) just to classify 
+- Ask Maciek whether he wants to exchange essays (since we are writing on different topics, no risk of us plagiarising ideas accidentally)
+	- Possible reader: Maciek, Cameron, Asta (only if she's writing a different topic)
+- Ask -- what would make a solution a successful long-term one? And do biochemical solutions fulfil those criteria? 

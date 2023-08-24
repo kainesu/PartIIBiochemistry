@@ -1,0 +1,25 @@
+- How does it occur? 
+	- Steps
+	- What molecules are involved 
+	- Molecular mechanisms  
+	- Structures and structural changes  
+	- Biophysical measurements
+		- Kinetics
+		- Thermodynamics
+- When does it occur? 
+	- Developmental 
+	- Context
+	- Triggers/signals
+- Where does it occur?
+	- Within organelle
+	- Within cell
+	- Within tissue 
+- How is it regulated? 
+	- Interactions with other processes
+	- Systems 
+- Why does it occur? 
+	- Function in cell 
+	- Evolutionary benefit 
+- Is there heterogeneity across space, time, context? 
+
+And techniques that can be used to answer these questions. 

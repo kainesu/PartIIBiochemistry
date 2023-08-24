@@ -1,0 +1,3 @@
+- COP II assembly is driven by repeated Sar1 GTPase cycles 
+- Sec61 complex assembly 
+- GET pathway 
